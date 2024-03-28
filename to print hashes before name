@@ -1,0 +1,7 @@
+n="pr##i#y#a"
+count=n.count("#")
+print(count)
+name = n.replace("#","")
+print(name)
+n=(count*"#"+name)
+print(n)
