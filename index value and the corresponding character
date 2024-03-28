@@ -1,0 +1,5 @@
+string1='priya'
+index=0
+for i in string1:
+    print('string1[', index, ']= ', i)
+    index +=1 
