@@ -1,0 +1,3 @@
+string1= 'priya'
+for i in string1:
+    print(i,end=' ')
