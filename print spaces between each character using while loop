@@ -1,0 +1,6 @@
+string1 = 'newyork is in USA'
+i = 0
+while(i<len(string1)):
+    letter = string1[i]
+    print(letter,end=' ')
+    i +=1
